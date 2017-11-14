@@ -1,0 +1,16 @@
+
+.header-yellow {
+  background-color: yellow;
+  border: 1px solid black;
+  height: 20px;
+  width: 600px;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  width: 200px;
+  height: 300px;
+  left: 0px;
+
+}
